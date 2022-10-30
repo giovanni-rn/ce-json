@@ -1,0 +1,16 @@
+{
+  "patrick": {
+    "age": 32,
+    "métier": "rsa",
+    "ville": "Bikini Bottom",
+    "stupide": true,
+    "dulcinée": null
+  },
+  "bob": {
+    "age": 37,
+    "métier": "cuisto",
+    "ville": "Bikini Bottom",
+    "stupide": false,
+    "dulcinée": null
+  }
+}
